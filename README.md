@@ -1,3 +1,3 @@
-# 2023-1-MoGakSo
+# 2022MoGakSo
 
 https://github.com/woukl22/MoGakSo.git
